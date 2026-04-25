@@ -1,1 +1,5 @@
-# CS305-Portfolio
+## CS 305 Module Eight Journal
+
+My client was Artemis Financial, a company that needed help identifying and fixing software security vulnerabilities. The main goal was to secure sensitive financial data and reduce risks caused by outdated dependencies and weak coding practices. I did well analyzing vulnerability scan results and prioritizing issues based on severity. Coding securely is important because it protects user data, prevents cyberattacks, and helps maintain trust and compliance within a company.
+
+One challenge was understanding which vulnerabilities were most critical and how to properly address them. To improve security, I updated dependencies, applied secure coding practices, and used tools like OWASP Dependency-Check. I tested the application after making changes and reran scans to ensure no new vulnerabilities were introduced. I used tools like Eclipse, Maven, and security best practices, which will help me in future projects. From this assignment, I would show employers my ability to identify and fix vulnerabilities, use security tools, and maintain secure and functional applications.
